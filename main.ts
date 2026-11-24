@@ -1,4 +1,5 @@
 // A Day of One-Line Pitches — u-ronigrv-a-day-of-one-line-pitches-12cd9bb3
+// One sentence, at most 240 characters, pitched to a friend who has never coded.
 // Writes one original sentence (<= 240 chars) to /output/entry.txt.
 // The pitch speaks to a friend who has never coded: describe the app in
 // plain words, try a real first version tonight, no code and no lessons.
